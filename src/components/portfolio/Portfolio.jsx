@@ -27,30 +27,6 @@ const data = [
     demo: 'https://github.com'
   },
 
-  {
-    id: 4,
-    image: IMG1,
-    title: "Web Development Project-4",
-    github: 'https://github.com',
-    demo: 'https://github.com'
-  },
-
-  {
-    id: 5,
-    image: IMG1,
-    title: "Web Development Project-5",
-    github: 'https://github.com',
-    demo: 'https://github.com'
-  },
-
-  {
-    id: 6,
-    image: IMG1,
-    title: "Web Development Project-6",
-    github: 'https://github.com',
-    demo: 'https://github.com'
-  },
-
 ]
 
 const Portfolio = () => {

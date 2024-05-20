@@ -78,7 +78,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BiSolidBadgeCheck className='experience__details-icon'/>
               <div>
-                <h4>SQL</h4>
+                <h4>REST API</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
 
